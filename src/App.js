@@ -41,7 +41,7 @@ function App() {
   return (
     <div className="container">
           <h3 className='text-center margin-10'>
-          A list of all the cats in alphabetical order under a heading of the gender of their owner.
+            Tony test
           </h3>
           <div className="row">
               <div className="offset-md-2 col-md-8">
