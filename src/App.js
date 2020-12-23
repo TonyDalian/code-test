@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        Color theme : ayu
+        prettier
       </header>
     </div>
   );
